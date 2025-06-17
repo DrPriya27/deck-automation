@@ -4,7 +4,7 @@
 Auto generate deck on any topic with the help of GPT models
 
 ```
-python deck_generator.py --folder /remote/us01home50/priyaag/Desktop/automation_on_presentation_creation/ppt_agent-main/data --prompt "Create a presentation about AI in healthcare" --output presentation.pptx
+python deck_generator.py  --prompt "Create a presentation about AI in healthcare" --output presentation.pptx
 
 ```
 
