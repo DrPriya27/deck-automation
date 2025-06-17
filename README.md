@@ -64,4 +64,5 @@ huggingface_image_generator.py - A standalone module with the robust image gener
 🔗 https://www.geeksforgeeks.org/artificial-intelligence/text-to-image-using-stable-diffusion-huggingface-model/
 
 
-5️⃣
+5️⃣Generative AI prompt sample
+🔗 https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery
