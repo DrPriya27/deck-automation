@@ -38,21 +38,12 @@ stabilityai/stable-diffusion-2-1
 CompVis/stable-diffusion-v1-4
 prompthero/openjourney
 
-### 
+```
 test_huggingface_connection.py - A simple script to test basic Hugging Face API connectivity
+
 test_image_generation.py - A script that tests image generation with multiple models and identifies which ones work for you
 huggingface_image_generator.py - A standalone module with the robust image generation function
-
-
-
-## Prompting guide
-By taking this course, you'll learn to:
-- Deeply understand generative AI, describing the key steps in a typical LLM-based generative AI lifecycle, from data gathering and model selection, to performance evaluation and deployment
-- Describe in detail the transformer architecture that powers LLMs, how they’re trained, and how fine-tuning enables LLMs to be adapted to a variety of specific use cases
-- Use empirical scaling laws to optimize the model's objective function across dataset size, compute budget, and inference requirements
-- Apply state-of-the art training, tuning, inference, tools, and deployment methods to maximize the performance of models within the specific constraints of your project
-- Discuss the challenges and opportunities that generative AI creates for businesses after hearing stories from industry researchers and practitioners
-
+```
 
 
 
