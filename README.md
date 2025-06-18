@@ -66,3 +66,14 @@ huggingface_image_generator.py - A standalone module with the robust image gener
 
 5️⃣Generative AI prompt sample
 🔗 https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery
+
+Prompt engineering for copilot
+https://code.visualstudio.com/docs/copilot/chat/prompt-crafting
+
+https://leaddev.com/velocity/how-write-better-ai-prompts
+
+Prompt chaining in ChatGPT
+https://github.com/MIATECHPARTNERS/PromptChains
+
+Image generator using various models
+https://github.com/SikamikanikoBG/ImageGenerator
