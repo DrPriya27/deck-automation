@@ -18,7 +18,7 @@ Auto generate visuals, infographics on each slide deck using text-to-image model
 
 ```
 
-python deck_visuals_generator.py --input "presentation.pptx" --output "output_folder" --hf_token  "..." --model "..."
+python deck_image_generator.py --input "presentation.pptx" --output "output_folder" --hf_token  "..." --model "..."
 
 ├── slide_1/
 │   ├── image_1.png  (infographic)
