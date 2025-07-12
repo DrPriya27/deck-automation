@@ -16,6 +16,10 @@ Deck Automation Suite is an end-to-end solution for automating the creation of p
 
 ### 2. Template Application
 - Seamlessly apply custom themes and templates to your generated presentations for a polished, branded look.
+- Example:
+    ```sh
+    python apply_template.py --input "presentation.pptx" --template "custom_theme.pptx" --output "themed_presentation.pptx"
+    ```
 
 ### 3. Visual & Infographic Generation
 - Automatically create relevant visuals, infographics, diagrams, and conceptual illustrations for each slide using text-to-image models (e.g., Stable Diffusion via Hugging Face).
