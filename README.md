@@ -111,25 +111,3 @@ huggingface_image_generator.py - A standalone module with the robust image gener
 
 
 
-
-### Resources
-
-1️⃣ [Prompt and Image Attribute Guide](https://cloud.google.com/vertex-ai/generative-ai/docs/image/img-gen-prompt-guide)
-
-2️⃣ [Find the Best AI Tools for Every Task](https://topai.tools/)
-
-3️⃣ [Detailed Notes on Image Generation](https://github.com/swyxio/ai-notes/blob/main/IMAGE_GEN.md)
-
-4️⃣ How to Run Stable Diffusion:  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 [DataCamp Guide](https://www.datacamp.com/tutorial/how-to-run-stable-diffusion)  
-&nbsp;&nbsp;&nbsp;&nbsp;🔗 [GFG: Text-to-Image using Stable Diffusion](https://www.geeksforgeeks.org/artificial-intelligence/text-to-image-using-stable-diffusion-huggingface-model/)
-
-5️⃣ [Generative AI Prompt Samples](https://cloud.google.com/vertex-ai/generative-ai/docs/prompt-gallery)
-
-6️⃣ [Prompt Engineering for Copilot](https://code.visualstudio.com/docs/copilot/chat/prompt-crafting)
-
-7️⃣ [How to Write Better AI Prompts](https://leaddev.com/velocity/how-write-better-ai-prompts)
-
-8️⃣ [Prompt Chaining in ChatGPT](https://github.com/MIATECHPARTNERS/PromptChains)
-
-9️⃣ [Image Generator Using Various Models](https://github.com/SikamikanikoBG/ImageGenerator)
